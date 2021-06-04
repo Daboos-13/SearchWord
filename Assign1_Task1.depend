@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601275961 source:d:\matrial\other course\c++\sheet 1s\assign1_task1\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cctype>
+	<bits/stdc++.h>
+
